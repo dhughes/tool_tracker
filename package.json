@@ -1,0 +1,27 @@
+{
+  "name": "tool_tracker",
+  "private": true,
+  "dependencies": {
+    "@babel/preset-react": "^7.10.1",
+    "@fortawesome/fontawesome-free": "^5.14.0",
+    "@rails/actioncable": "^6.0.0",
+    "@rails/activestorage": "^6.0.0",
+    "@rails/ujs": "^6.0.0",
+    "@rails/webpacker": "4.2.2",
+    "axios": "^0.19.2",
+    "babel-plugin-transform-react-remove-prop-types": "^0.4.24",
+    "bootstrap": "^4.5.0",
+    "bootstrap-switch-button": "^1.1.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1",
+    "prop-types": "^15.7.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "reactstrap": "^8.5.1"
+  },
+  "version": "0.1.0",
+  "devDependencies": {
+    "prettier": "^2.0.5",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
